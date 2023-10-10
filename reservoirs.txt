@@ -1,0 +1,2 @@
+Black Sea 100 100 100
+White Sea 100 100 100
